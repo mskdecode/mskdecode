@@ -1,7 +1,7 @@
-# <img src="https://media.giphy.com/media/hvRJCLzPaojPhgBCp2/giphy.gif" width="30px"> I'm MSK-Decode
+# <img src="MY.png" width="30px"> I'm MSK-Decode
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=MSK-Decode&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="My Banner.png" width="100%" />
 </p>
 
 ### 👨‍💻 Professional Summary
