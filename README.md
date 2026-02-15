@@ -1,41 +1,50 @@
-# 👨‍💻 Hi, I'm MSK-Decode | IT Student & Graphics Developer
+# <img src="https://media.giphy.com/media/hvRJCLzPaojPhgBCp2/giphy.gif" width="30px"> I'm MSK-Decode
 
-I am a passionate **Information Technology Student** based in **Peshawar, Pakistan**. I specialize in **Low-Level Graphics Programming**, with a deep interest in building custom game engines from the ground up. 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=MSK-Decode&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
-Currently, I am focusing on bridging the gap between academic theory—specifically **Design and Analysis of Algorithms**—and practical application in **3D Rendering**.
+### 👨‍💻 Professional Summary
+I am a dedicated **Information Technology Student** based in **Peshawar, Pakistan**. My passion lies in **Low-Level Graphics Programming**, where I am currently bridging the gap between academic theory—specifically **Design and Analysis of Algorithms**—and practical application in **3D Rendering**.
 
----
-
-### 🛠️ Technical Expertise
-* **Graphics API:** Modern OpenGL (3.3+) using shaders (GLSL) for vertex and fragment processing.
-* **Languages:** Proficient in **C++** and **C** for performance-critical applications.
-* **Core Concepts:** 3D Mathematics, Graphics Pipelines, and Time Complexity Analysis.
-* **Tools:** Git/GitHub for version control, CMake, and workflow automation (n8n).
-
----
-
-### 📂 Major Projects in Development
-* **[MSK-Decode_GL](https://github.com/mskdecode/MSK-Decode_GL):** A custom 3D renderer built with C++ and OpenGL.
-* **Decoder-Dodge:** A personal game project where I implement optimized algorithms for game logic and rendering.
-* **Vertical Dodger:** An experimental project focused on 3D physics and movement mechanics.
+- 🎓 **Academic Focus:** Exploring **Computer Graphics & Visual Computing**.
+- 🕹️ **Active Project:** Developing **Decoder-Dodge**, a 3D game built from scratch using **C++ and OpenGL**.
+- 🎥 **Content Creator:** Managing **YoursHeroGamer**, focusing on game development and 1080p 60fps technical content.
+- ⚙️ **Workflow:** Implementing automation tools like **n8n** to streamline development.
 
 ---
 
-### 🎓 Academic & Professional Focus
-* **Current Studies:** Information Technology student exploring **Computer Graphics & Visual Computing**.
-* **Creative:** Creator of the **YoursHeroGamer** YouTube channel, focusing on game development and high-quality 1080p 60fps video content.
-* **Goal:** Aspiring to contribute to the growing game development ecosystem in Peshawar.
+### 🛠️ Technical Skillset
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=5586A4" />
+  <img src="https://img.shields.io/badge/Algorithms-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+---
+
+### 📂 Featured Development
+* **[MSK-Decode_GL](https://github.com/mskdecode/MSK-Decode_GL):** My primary repository for custom 3D graphics rendering and engine architecture.
+* **[Decoder-Dodge](https://github.com/mskdecode/MSK-Decode_GL):** Applying algorithm analysis to real-time 3D game mechanics.
+
+---
+
+### 📊 Dynamic Contributions & Status
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mskdecode&show_icons=true&theme=tokyonight&count_private=true" alt="MSK-Decode Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mskdecode&theme=tokyonight" alt="MSK-Decode Streak" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
-* **LinkedIn:** [linkedin.com/in/msk-decode](https://linkedin.com/in/msk-decode)
-* **YouTube:** [YoursHeroGamer](https://youtube.com/@yoursherogamer)
-* **Email:** [mskdecode@gmail.com](mailto:mskdecode@gmail.com)
-* **Location:** Peshawar, Pakistan 🇵🇰
+<p align="left">
+<a href="https://linkedin.com/in/msk-decode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msk-decode" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCyVRK7Pyqvl6QCMfEW8Dlvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yoursherogamer" height="30" width="40" /></a>
+</p>
 
 ---
-
-### 📊 My GitHub Journey
-![MSK's GitHub stats](https://github-readme-stats.vercel.app/api?username=mskdecode&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mskdecode&layout=compact&theme=tokyonight)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mskdecode&label=Profile%20Views&color=0e75b6&style=flat" alt="MSK-Decode Profile Views" />
+</p>
