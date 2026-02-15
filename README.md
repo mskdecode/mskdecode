@@ -1,31 +1,41 @@
-# MSK-Decode_GL
+# 👨‍💻 Hi, I'm MSK-Decode | IT Student & Graphics Developer
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![C++](https://img.shields.io/badge/language-C%2B%2B-00599C)
-![OpenGL](https://img.shields.io/badge/graphics-OpenGL-5586A4)
+I am a passionate **Information Technology Student** based in **Peshawar, Pakistan**. I specialize in **Low-Level Graphics Programming**, with a deep interest in building custom game engines from the ground up. 
 
-A custom 3D graphics project built from the ground up using **C++** and **OpenGL**. This project focuses on understanding the graphics pipeline and implementing core rendering features.
+Currently, I am focusing on bridging the gap between academic theory—specifically **Design and Analysis of Algorithms**—and practical application in **3D Rendering**.
 
-## 🚀 Features
-* **Modern OpenGL Pipeline:** Uses shaders (GLSL) for vertex and fragment processing.
-* **Camera System:** Interactive 3D camera with WASD movement and mouse look.
-* **Texture Mapping:** Support for loading and applying 2D textures to 3D objects.
-* **Math Library:** Integrated with GLM for vector and matrix operations.
+---
 
-## 🛠️ Tech Stack
-* **Language:** C++17
-* **Graphics API:** OpenGL 3.3+
-* **Windowing/Input:** GLFW / GLAD
-* **Mathematics:** GLM
-* **Image Loading:** stb_image
+### 🛠️ Technical Expertise
+* **Graphics API:** Modern OpenGL (3.3+) using shaders (GLSL) for vertex and fragment processing.
+* **Languages:** Proficient in **C++** and **C** for performance-critical applications.
+* **Core Concepts:** 3D Mathematics, Graphics Pipelines, and Time Complexity Analysis.
+* **Tools:** Git/GitHub for version control, CMake, and workflow automation (n8n).
 
+---
 
-## 📥 Getting Started
+### 📂 Major Projects in Development
+* **[MSK-Decode_GL](https://github.com/mskdecode/MSK-Decode_GL):** A custom 3D renderer built with C++ and OpenGL.
+* **Decoder-Dodge:** A personal game project where I implement optimized algorithms for game logic and rendering.
+* **Vertical Dodger:** An experimental project focused on 3D physics and movement mechanics.
 
-### Prerequisites
-Ensure you have a C++ compiler and CMake installed. 
+---
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/mskdecode/MSK-Decode_GL.git](https://github.com/mskdecode/MSK-Decode_GL.git)
+### 🎓 Academic & Professional Focus
+* **Current Studies:** Information Technology student exploring **Computer Graphics & Visual Computing**.
+* **Creative:** Creator of the **YoursHeroGamer** YouTube channel, focusing on game development and high-quality 1080p 60fps video content.
+* **Goal:** Aspiring to contribute to the growing game development ecosystem in Peshawar.
+
+---
+
+### 🌐 Connect With Me
+* **LinkedIn:** [linkedin.com/in/msk-decode](https://linkedin.com/in/msk-decode)
+* **YouTube:** [YoursHeroGamer](https://youtube.com/@yoursherogamer)
+* **Email:** [mskdecode@gmail.com](mailto:mskdecode@gmail.com)
+* **Location:** Peshawar, Pakistan 🇵🇰
+
+---
+
+### 📊 My GitHub Journey
+![MSK's GitHub stats](https://github-readme-stats.vercel.app/api?username=mskdecode&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mskdecode&layout=compact&theme=tokyonight)
